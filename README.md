@@ -1,21 +1,22 @@
-# 🌐 Fathir Website
+# 🌟 Fathir Website
 
-## ✨ Deskripsi
-**Fathir Website** adalah platform modern dengan desain UI yang estetis dan pengalaman pengguna yang luar biasa. Dibangun menggunakan teknologi terkini untuk memberikan tampilan yang elegan, interaktif, dan responsif di berbagai perangkat.
+## 🚀 Tentang Website
+**Fathir Website** adalah platform yang dirancang dengan desain UI modern, estetis, dan interaktif. Menggunakan teknologi terkini untuk memberikan pengalaman pengguna yang lancar, responsif, dan menarik di berbagai perangkat.
 
 ## 🎨 Fitur Utama
-- 🖌️ **Desain UI Modern & Estetik**: Tampilan yang bersih, minimalis, dan profesional.
-- 📱 **Responsif & Mobile-Friendly**: Berfungsi sempurna di desktop, tablet, dan smartphone.
-- ⚡ **Performa Cepat**: Optimalisasi kecepatan dan pengalaman pengguna.
-- 🔐 **Keamanan Terjamin**: Proteksi data pengguna dengan enkripsi terbaru.
-- 🚀 **SEO & Aksesibilitas**: Struktur yang ramah SEO dan mudah diakses oleh semua pengguna.
+- 🎭 **Desain UI/UX Modern**: Menggunakan konsep minimalis dan elegan dengan animasi halus.
+- 📱 **Responsif & Mobile-Friendly**: Tampilan optimal di semua perangkat.
+- ⚡ **Performa Cepat**: Optimalisasi kecepatan dan efisiensi kode.
+- 🔒 **Keamanan & Privasi**: Implementasi enkripsi dan perlindungan data.
+- 📊 **SEO & Aksesibilitas**: Ramah mesin pencari dan mudah diakses.
+- 🎨 **Mode Gelap & Terang**: Dukungan tampilan tema gelap dan terang untuk kenyamanan pengguna.
 
 ## 🛠️ Teknologi yang Digunakan
 - **Frontend**: HTML5, CSS3, JavaScript (dengan Tailwind CSS & Animasi GSAP)
-- **Framework**: React.js / Vue.js untuk interaktivitas yang lebih baik
-- **Backend**: Node.js / Express / Laravel
-- **Database**: MongoDB / MySQL / Firebase
-- **Deployment**: Vercel, Netlify, atau DigitalOcean
+- **Framework**: React.js / Vue.js untuk pengalaman yang lebih dinamis
+- **Backend**: Node.js / Express / Laravel untuk performa server-side yang cepat
+- **Database**: MongoDB / MySQL / Firebase untuk penyimpanan data
+- **Deployment**: Vercel, Netlify, atau DigitalOcean untuk hosting yang optimal
 
 ## 📦 Instalasi & Penggunaan
 1. Clone repository:
@@ -43,7 +44,7 @@ Tampilan antarmuka website:
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## 🤝 Kontribusi
-Kami menyambut kontribusi! Jika ingin membantu, silakan buat _pull request_ atau laporkan masalah (_issues_).
+Kami sangat menyambut kontribusi! Jika ingin membantu, silakan buat _pull request_ atau laporkan masalah (_issues_).
 
 ---
 
