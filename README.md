@@ -1,41 +1,44 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dashboard</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100">
-    <div class="flex h-screen">
-        <!-- Sidebar -->
-        <div class="w-64 bg-blue-900 text-white p-5">
-            <h1 class="text-xl font-bold mb-5">Dashboard</h1>
-            <ul>
-                <li class="mb-3"><a href="#" class="hover:text-gray-300">Home</a></li>
-                <li class="mb-3"><a href="#" class="hover:text-gray-300">Analytics</a></li>
-                <li class="mb-3"><a href="#" class="hover:text-gray-300">Settings</a></li>
-            </ul>
-        </div>
-        
-        <!-- Main Content -->
-        <div class="flex-1 p-6">
-            <h2 class="text-2xl font-semibold mb-4">Selamat Datang!</h2>
-            <div class="grid grid-cols-3 gap-4">
-                <div class="bg-white p-4 rounded-lg shadow-md">
-                    <h3 class="text-lg font-bold">Statistik 1</h3>
-                    <p class="text-gray-600">Data 1</p>
-                </div>
-                <div class="bg-white p-4 rounded-lg shadow-md">
-                    <h3 class="text-lg font-bold">Statistik 2</h3>
-                    <p class="text-gray-600">Data 2</p>
-                </div>
-                <div class="bg-white p-4 rounded-lg shadow-md">
-                    <h3 class="text-lg font-bold">Statistik 3</h3>
-                    <p class="text-gray-600">Data 3</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+# Fathir Website
+
+## 📌 Deskripsi
+Website **Fathir** adalah platform modern yang dirancang untuk memberikan pengalaman terbaik kepada pengguna dengan desain minimalis dan fitur inovatif. Dibangun menggunakan teknologi terbaru untuk memastikan performa cepat dan responsif.
+
+## 🚀 Fitur Utama
+- **UI/UX Modern**: Desain yang elegan dan mudah digunakan.
+- **Responsif**: Berfungsi dengan baik di berbagai perangkat.
+- **Keamanan**: Menggunakan praktik terbaik untuk menjaga data pengguna tetap aman.
+- **Optimasi SEO**: Struktur kode yang ramah SEO untuk meningkatkan visibilitas.
+
+## 🛠️ Teknologi yang Digunakan
+- **HTML5, CSS3, JavaScript**
+- **Tailwind CSS** untuk styling yang fleksibel
+- **Framework (Opsional: React, Vue, atau lainnya)**
+- **Backend (Opsional: Node.js, Laravel, atau lainnya)**
+
+## 📦 Instalasi & Penggunaan
+1. Clone repository:
+   ```sh
+   git clone https://github.com/username/fathir-website.git
+   ```
+2. Masuk ke direktori proyek:
+   ```sh
+   cd fathir-website
+   ```
+3. Jika menggunakan package manager, install dependensi:
+   ```sh
+   npm install
+   ```
+4. Jalankan proyek:
+   ```sh
+   npm start
+   ```
+
+## 📄 Lisensi
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+## 🤝 Kontribusi
+Kami sangat terbuka untuk kontribusi! Silakan buat _pull request_ atau laporkan masalah (_issues_).
+
+---
+
+Dibuat dengan ❤️ oleh tim **Fathir Website**.
