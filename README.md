@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>18 Maret 2025</title>
-    <link rel=”icon” type=”image/png” href=”https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd2PnAdsqWO2botguCSuvDya2903tQsLdHHERv-GeeJ1Zx0Jb77SfpnOBi2sua433MwxJ5EiFF24pl2pRtkzMPLV6XeW9bgvd2Fq5JcFBxvkWUfUeDklgOIL_HG2WCCkXT0dhsBdmgy9fk3N48vJr0vskeFKrkA9KMR5qbgv_c9GXoX2vpCyPkqdbKeaQ/s320/fat.png”>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
