@@ -96,7 +96,7 @@
     <div class="card">
         <div class="countdown">H-1</div>
         <h1 class="text-3xl font-bold text-pink-600">18 Maret 2025!</h1>
-        <p class="mt-4 text-gray-700 leading-relaxed">Semangat buat yang mengikuti SNBP! besok adalah hari yang ditunggu-tunggu! Apapun hasilnya stay cool. Semoga kalian semua bisa lulus, dan jika belum, jangan menyerah, masih banyak jalan lain untuk meraihnya. Jangan lupa berdo'a sebelum membuka hasilnya dan tetap semangat! 💪🔥❤️</p>
+        <p class="mt-4 text-gray-700 leading-relaxed">Semangat buat yang mengikuti SNBP! besok adalah hari yang ditunggu-tunggu! Apapun hasilnya stay cool. Semoga kalian semua bisa lulus, dan jika belum, jangan menyerah, masih banyak jalan lain untuk meraihnya. Jangan lupa berdo'a sebelum membuka hasilnya dan tetap semangat para pejuang UTBK! 💪🔥❤️</p>
         <p class="mt-4 text-gray-400 font-medium">by Fathir</p>
         <div class="image-container">
             <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghSkJGrqswngbHhxRgscmw1I_UJyHcgLEJ0FBPpyxJE7-dyXKOMl8p5iD51DLOaTjib60zfD-9x_Ou2pIT4ouiSbv8ZQseSHs1g77oD6LJ7z3asxMVvuVjDdcKbis46nUoy9o48FG1GTrq3571axCYbE_ONw8i5ialU9WVlYrt3KVca8Eiri6FaiO4wzI/s320/logo-snbp.png" alt="SNBP">
